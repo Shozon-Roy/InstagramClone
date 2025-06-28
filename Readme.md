@@ -25,7 +25,7 @@ This Instagram Clone is designed as a learning project and demonstration of a fu
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/shozonggroy/instagram-clone.git
+    git clone https://github.com/shozon-roy/instagram-clone.git
     cd instagram-clone
     ```
 
