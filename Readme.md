@@ -69,5 +69,5 @@ This project is open-source and free to use.
 
 ---
 
-> **Enjoy using Tip Calculator!**  
+> **Enjoy using Instagram Clone!**  
 > If you like this project, feel free to star ⭐ the repo and share with others!
